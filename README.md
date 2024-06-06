@@ -3,7 +3,7 @@
 
 New Program Source Bitcoin Free Mining with python and high speed hash rate using cloud power
 
-With this program you can earn 2-3$ per using any type of PC
+With this program you can earn 2-3$ per day using any type of PC
 
 
 first install this package's :
