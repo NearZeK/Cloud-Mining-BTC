@@ -5,6 +5,8 @@ New Program Source Bitcoin Free Mining with python and high speed hash rate usin
 
 With this program you can earn 2-3$ per day using any type of PC
 
+![Снимок экрана 2024-05-23 010937](https://github.com/NearZeK/Cloud-Mining-BTC/assets/108735563/95ce8d33-014a-4f37-be0e-c314db2c6eb2)
+
 
 first install this package's :
 ```
